@@ -1,4 +1,5 @@
 //This is the C++ program for removing duplicate elements from a linklist using hashmap
+//@author Saurav Rai
 #include<iostream>
 #include<map>
 using namespace std;
