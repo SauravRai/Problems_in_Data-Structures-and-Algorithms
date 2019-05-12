@@ -1,5 +1,6 @@
 //This is the C++ program for removing duplicates present in a linked list
 //Remove duplicates using vector and map
+//@author Saurav Rai
 #include<iostream>
 #include<vector>
 #include<map>
